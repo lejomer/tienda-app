@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>android/ico/ulabox/menu/promos</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.146446609,5.64644661 L5.64644661,0.146446609 C5.84170876,-0.0488155365 6.15829124,-0.0488155365 6.35355339,0.146446609 L11.8535534,5.64644661 C11.9473216,5.7402148 12,5.86739176 12,6 L12,17.2928932 C12,17.5690356 11.7761424,17.7928932 11.5,17.7928932 L0.5,17.7928932 C0.223857625,17.7928932 3.38176876e-17,17.5690356 0,17.2928932 L6.55031585e-15,6 C6.76963558e-15,5.86739176 0.0526784202,5.7402148 0.146446609,5.64644661 Z" id="path-1"></path>
+        <rect id="path-2" x="5" y="4" width="2" height="2" rx="1"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="android/ico/ulabox/menu/promos">
+            <rect id="Rectangle-7" x="0" y="0" width="24" height="24"></rect>
+            <g id="Group-3" transform="translate(10.606602, 10.606602) rotate(-45.000000) translate(-10.606602, -10.606602) translate(4.606602, 1.606602)">
+                <g id="Rectangle-6">
+                    <use fill="#FF5D77" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#000000" stroke-width="1" d="M-0.207106781,5.29289322 L5.29289322,-0.207106781 C5.68341751,-0.597631073 6.31658249,-0.597631073 6.70710678,-0.207106781 L12.2071068,5.29289322 C12.3946432,5.4804296 12.5,5.73478351 12.5,6 L12.5,17.2928932 C12.5,17.845178 12.0522847,18.2928932 11.5,18.2928932 L0.5,18.2928932 C-0.0522847498,18.2928932 -0.5,17.845178 -0.5,17.2928932 L-0.5,6 C-0.5,5.73478351 -0.39464316,5.4804296 -0.207106781,5.29289322 Z"></path>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#000000" stroke-width="1" x="4.5" y="3.5" width="3" height="3" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

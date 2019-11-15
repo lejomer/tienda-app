@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ico_menu/bebe</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.11389681,2.66692975 C3.04013655,2.45833613 3,2.23385526 3,2 C3,0.8954305 3.8954305,0 5,0 C6.1045695,0 7,0.8954305 7,2 C7,2.23385526 6.95986345,2.45833613 6.88610319,2.66692975 C7.56558291,3.21691999 8,4.05772822 8,5 C8,6.65685425 6.65685425,8 5,8 C3.34314575,8 2,6.65685425 2,5 C2,4.05772822 2.43441709,3.21691999 3.11389681,2.66692975 Z" id="path-1"></path>
+        <rect id="path-2" x="1" y="5" width="8" height="8" rx="0.5"></rect>
+        <rect id="path-3" x="0" y="8" width="10" height="10" rx="0.5"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico_menu/bebe">
+            <rect id="Rectangle-7" x="0" y="0" width="24" height="24"></rect>
+            <g id="Group-2" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) translate(7.000000, 3.000000)">
+                <g id="Oval">
+                    <use fill="#FFB400" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#000000" stroke-width="1" d="M2.55015541,2.50024187 C2.5169363,2.3368554 2.5,2.16946213 2.5,2 C2.5,0.619288125 3.61928813,-0.5 5,-0.5 C6.38071187,-0.5 7.5,0.619288125 7.5,2 C7.5,2.16946213 7.4830637,2.3368554 7.44984459,2.50024187 C8.11383159,3.15060024 8.5,4.04404081 8.5,5 C8.5,6.93299662 6.93299662,8.5 5,8.5 C3.06700338,8.5 1.5,6.93299662 1.5,5 C1.5,4.04404081 1.88616841,3.15060024 2.55015541,2.50024187 Z"></path>
+                </g>
+                <g id="Rectangle-5-Copy">
+                    <use fill="#FF5D77" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#000000" stroke-width="1" x="0.5" y="4.5" width="9" height="9" rx="0.5"></rect>
+                </g>
+                <g id="Rectangle-5">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#000000" stroke-width="1" x="-0.5" y="7.5" width="11" height="11" rx="0.5"></rect>
+                </g>
+                <g id="Group" transform="translate(6.000000, 11.000000)" fill="#000000">
+                    <rect id="Rectangle-11" x="0" y="2" width="4" height="1"></rect>
+                    <rect id="Rectangle-11-Copy" x="2" y="0" width="2" height="1"></rect>
+                    <rect id="Rectangle-11-Copy-2" x="2" y="4" width="2" height="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

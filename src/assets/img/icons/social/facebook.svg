@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>android/ico/social/facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2,12 C2,6.47715223 6.47715223,2 12,2 C17.5228478,2 22,6.47715223 22,12 C22,17.5228478 17.5228478,22 12,22 C6.47715223,22 2,17.5228478 2,12 Z M12.7089813,17.5464486 L12.7089813,12.1059207 L14.2108049,12.1059207 L14.409829,10.2310846 L12.7089813,10.2310846 L12.7115329,9.29271111 C12.7115329,8.80372499 12.7579931,8.54171506 13.4603184,8.54171506 L14.3991974,8.54171506 L14.3991974,6.66666667 L12.8971611,6.66666667 C11.092974,6.66666667 10.4579469,7.57616387 10.4579469,9.10565216 L10.4579469,10.2312969 L9.33333333,10.2312969 L9.33333333,12.106133 L10.4579469,12.106133 L10.4579469,17.5464486 L12.7089813,17.5464486 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="android/ico/social/facebook">
+            <g id="Facebook">
+                <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Combined-Shape"></g>
+                <g id="general/palette/color/rosa_500" mask="url(#mask-2)" fill="#FF5D77">
+                    <rect id="rosa_500" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

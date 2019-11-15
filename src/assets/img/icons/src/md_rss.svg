@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>android/ico/social/RSS</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,10 C0,4.47715223 4.47715223,0 10,0 C15.5228478,0 20,4.47715223 20,10 C20,15.5228478 15.5228478,20 10,20 C4.47715223,20 0,15.5228478 0,10 Z M6.0001,12.6666667 C6.0001,13.403 6.5970936,14 7.33341905,14 C8.06974449,14 8.66673809,13.403 8.66673809,12.6666667 C8.66673809,11.9303333 8.06974449,11.3333333 7.33341905,11.3333333 C6.5970936,11.3333333 6.0001,11.9303333 6.0001,12.6666667 Z M15.3333333,14 C15.3333333,8.85366667 11.1463782,4.66666667 6.0001,4.66666667 L6.0001,6.44433333 C10.1663887,6.44433333 13.5556857,9.83366667 13.5556857,14 L15.3333333,14 Z M12.2222667,14 C12.2222667,10.569 9.43096324,7.77766667 6,7.77766667 L6,9.55566667 C8.45064041,9.55566667 10.444619,11.5493333 10.444619,14 L12.2222667,14 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="android/ico/social/RSS">
+            <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+            <g id="RSS" transform="translate(2.000000, 2.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Combined-Shape"></g>
+                <g id="general/palette/color/rosa_500" mask="url(#mask-2)" fill="#FF5D77">
+                    <g transform="translate(-2.000000, -2.000000)" id="rosa_500">
+                        <rect x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
