@@ -5,13 +5,17 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './shared/header/header.component';
 import { FooterComponent } from './shared/footer/footer.component';
 import { IndexComponent } from './pages/index/index.component';
+import { PromocionesComponent } from './pages/promociones/promociones.component';
+import { OutletComponent } from './pages/ofertas/outlet/outlet.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    IndexComponent
+    IndexComponent,
+    PromocionesComponent,
+    OutletComponent
   ],
   imports: [
     BrowserModule
