@@ -1,0 +1,139 @@
+<div class="pjax-container js-pjax-container" id="pjax-container">
+    <div class="flex__wrap | container-white | clear-fix dw-margin-trailer-2 d-margin-trailer-2 t-margin-trailer-2 ">
+        <div class="container-dark">
+            <header class="container-white | islet | flexbox | border--bottom" id="js-welcome-to-brand">
+                <span class="flexbox__item">
+                    <h1 class="brand-face | delta |  base-line-height | flush--bottom | text--center | soft--ends">¡Bienvenido a Brand!</h1>
+                </span>
+            </header>
+            <div id="js-top-banner"></div>
+            <div class="grid">
+                <div class="grid__item one-whole">
+                    <div class="btn-group text--center soft--top t-hide d-hide dw-hide js-segment-control" data-segment-mq="mobile">
+                        <button class="btn btn--end js-segment" data-segment-target="register">
+                                No tengo cuenta
+                    </button>
+                        <button class="btn btn--init js-segment is-active" data-segment-target="login">
+                            Ya tengo cuenta
+                    </button>
+                    </div>
+                </div>
+                <div class="grid__item m-one-whole t-two-quarters d-three-eighths dw-two-sixths push--d-one-eighth push--dw-one-sixth js-segment-item" data-segment="register">
+                    <div class="container-white container-rounded push--ends push-half--sides">
+                        <div class="island">
+                            <form action="/registro" method="post" id="register_form" class="js-registrer-promo">
+                                <h2 class="delta face-300 brand-face flush--top">
+                                    <legend>
+                                        Crea una cuenta en Brand
+                                    </legend>
+                                </h2>
+                                <div class="control-group control-group--placeholder">
+                                    <label for="registre_mail" class="required">Email</label>
+                                    <input type="email" id="registre_email" name="register[email]" required="required" class="input---100 required email is-empty" autocomplete="off" tabindex="1">
+                                </div>
+                                <div class="control-group control-group--placeholder">
+                                    <label for="register_password" class="required">Contraseña</label>
+                                    <input type="password" id="register_password" name="register[password]" required="required" class="input--100 required is-empty" autocomplete="off" tabindex="2" title="La contraseña debe tener 8 carácteres como mínimo" pattern=".{8,}">
+                                    <a href="#" class="show-password micro is-hidden-if-no-js js-show-password" data-original-text="mostrar" data-toggle-text="ocultar">mostrar</a>
+                                </div>
+                                <div class="control-group control-group--placeholder">
+                                    <label for="register_postalcode" class="required">Código postal</label>
+                                    <input type="tel" id="register_postalcode" name="register[postalcode]" required="required" class="input--100  required is-empty" tabindex="3">
+                                </div>
+                                <div class="control-group islet">
+                                    <div class="control-flex">
+                                        <label class="required micro" for="register_term_and_cond" required="">
+                                    <input type="checkbox" id="register_term_and_cond" name="register[term_and_cond]" required="required" tabindex="4" value="1">
+                                    <span>"He leído y acepto los
+                                                                    "
+                                        <a href="#">
+                                            "
+                                                                                Términos y condiciones
+                                                                      "
+                                        </a>
+                                        "
+                                                                        y la
+                                                                        "
+                                        <a href="#">
+                                        "
+                                                                                Política de privacidad
+                                                                            "
+                                        </a>
+                                    </span>
+                                </label>
+                                    </div>
+                                    <div class="control-flex">
+                                        <label class="micro" for="register_newsletter">
+                                    <input type="checkbox" id="register_newsletter" name="register[newsletter]" tabindex="5" value="1">
+                                    <span id="js-register-newsletter"> Quiero recibir ofertas de los productos disponibles en Brand</span>
+                                </label>
+                                    </div>
+                                    <div class="js-accordion">
+                                        <article class="js-accordion__item" id="legaltext">
+                                            <header class="js-accordion__header">
+                                                <a class="micro" href="#legaltext">
+                                                                        Info. básica de protección de datos
+                                            <i class="milli flush--bottom icon icon--plus nano"></i>
+                                        </a>
+                                            </header>
+                                            <div class="js-accordion__content is-hidden-if-js">
+                                                <p class="text--left flush--bottom nano push-half--top">
+                                                    El responsable de los datos personales es Brand, con la finalidad del cumplimiento de las obligaciones legales aplicables a Brand, especificadas en los <a href="#">términos y condiciones</a>. Base
+                                                    jurídica que legitima este tratamiento: el cumplimiento de obligaciones legales. Brand, cede algunos de los datos personales a terceros para ofrecer el servicio. Éstos serán cedidos a empresas de
+                                                    transporte para poder llevar a cabo la entrega de los pedidos, a la empresa que nos provee la herramienta CRM con el fin de enviar emails promocionales al cliente y a la herramienta de Atención al
+                                                    Cliente con finalidad de gestionar las incidencias. pero no pueden utilizarla para otros fines. Para más detalles puedes acceder a nuestra política de privacidad. Además, como responsable de los
+                                                    datos personales, concede los derechos de acceso, rectificación y supresión (junto con otros derechos) a sus clientes. Para cualquier duda o consulta: <a href="#">https://www.Brand.com/contacto</a>.
+                                                    <span id="js-promo-conditions"></span>
+                                                </p>
+                                            </div>
+                                        </article>
+                                    </div>
+                                </div>
+                                <div class="control-group text--right flush--bottom push--top">
+                                    <button class="btn btn--shop btn--expand btn--medium" name="register_form" type="submit" tabindex="6">Crear cuenta</button>
+                                </div>
+                                <input type="hidden" id="register__token" name="register[_token]" value="IYUsTsW469RoiWIDpenYj4wfYTs7LZaxXZtmfY2AvmE">
+                                <input type="hidden" id="register_promotion" name="register[promotion]" class="is-empty">
+                                <input type="hidden" id="register_landing" name="register[landing]" class="is-empty">
+                                <form>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid__item m-one-whole t-two-quarters d-three-eighths dw-two-sixths push--d-one-eighth push--dw-one-sixth js-segment-item" data-segment="login">
+                    <div class="container-white container-rounded island push--ends push-half--sides">
+                        <form action="/autenticacion" id="login_form" method="post">
+                            <h2 class="delta face-300 brand-face flush--top">
+                                <legend>
+                                    Acede a tu cuenta
+                                </legend>
+                            </h2>
+                            <div class="control-group control-group--placeholder">
+                                <label class="login_username">Email</label>
+                                <input type="email" id="login_username" name="login[username]" class="input--100 required email is-empty" autocomplete="off" tabindex="10">
+                            </div>
+                            <div class="control-group control-group--placeholder">
+                                <label for="password">Contraseña</label>
+                                <input type="password" id="login_password" name="login[password]" class="input--100 required password is-empty" autocomplete="off" tabindex="11">
+                                <a href="#" class="show-password micro is-hidden-if-no-js js-show-password" data-original-text="mostrar" data-toggle-text="ocultar">mostrar</a>
+                                <small>
+                                  <a href="/recuperar-contrasena" class="password_reminder_link micro js-pjax" rel="nofollow">¿Has olvidado tu contraseña?</a>
+                                </small>
+                            </div>
+                                <input type="hidden" id="login_back_url" name="login[back_url]" class="is-empty">
+                            <div class="control-group flush--bottom push--top text--right">
+                                <button class="btn btn--primary btn--expand btn--medium" type="submit" tabindex="12" name="login_form">Acceder</button>
+                            </div>
+                                <input type="hidden" id="login__token" name="login[_token]" value="tmVfIsN7GY7qXHB0NSPdT46vKJQC2zCy8pBcUcZZG04">
+                        </form>
+                        <footer class="form__footer">
+                            <a class="milli push-half--left" href="#" rel="nofollow">
+                                <i class="icon icon--facebook icon--15x"></i> Acceder con Facebook
+                            </a>
+                        </footer>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

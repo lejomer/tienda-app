@@ -7,6 +7,7 @@ import { FooterComponent } from './shared/footer/footer.component';
 import { IndexComponent } from './pages/index/index.component';
 import { PromocionesComponent } from './pages/promociones/promociones.component';
 import { OutletComponent } from './pages/ofertas/outlet/outlet.component';
+import { InicioComponent } from './pages/inicio/inicio.component';
 
 @NgModule({
   declarations: [
@@ -15,8 +16,10 @@ import { OutletComponent } from './pages/ofertas/outlet/outlet.component';
     FooterComponent,
     IndexComponent,
     PromocionesComponent,
-    OutletComponent
+    OutletComponent,
+    InicioComponent
   ],
+  
   imports: [
     BrowserModule
   ],
